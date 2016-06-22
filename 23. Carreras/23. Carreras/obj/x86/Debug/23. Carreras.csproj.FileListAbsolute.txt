@@ -1,0 +1,8 @@
+C:\Users\User\AppData\Local\Temporary Projects\23. Carreras\bin\Debug\_23.Carreras.exe
+C:\Users\User\AppData\Local\Temporary Projects\23. Carreras\bin\Debug\_23.Carreras.pdb
+C:\Users\User\AppData\Local\Temporary Projects\23. Carreras\obj\x86\Debug\_23.Carreras.exe
+C:\Users\User\AppData\Local\Temporary Projects\23. Carreras\obj\x86\Debug\_23.Carreras.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\23. Carreras\23. Carreras\bin\Debug\23. Carreras.exe
+C:\Users\upt\Desktop\Lenguajes\C #\23. Carreras\23. Carreras\bin\Debug\23. Carreras.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\23. Carreras\23. Carreras\obj\x86\Debug\23. Carreras.exe
+C:\Users\upt\Desktop\Lenguajes\C #\23. Carreras\23. Carreras\obj\x86\Debug\23. Carreras.pdb

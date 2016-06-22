@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\16. Mayor de tres numeros\bin\Debug\_16.Mayor_de_tres_numeros.exe
+C:\Users\User\AppData\Local\Temporary Projects\16. Mayor de tres numeros\bin\Debug\_16.Mayor_de_tres_numeros.pdb
+C:\Users\User\AppData\Local\Temporary Projects\16. Mayor de tres numeros\obj\x86\Debug\_16.Mayor_de_tres_numeros.exe
+C:\Users\User\AppData\Local\Temporary Projects\16. Mayor de tres numeros\obj\x86\Debug\_16.Mayor_de_tres_numeros.pdb
+C:\Users\upt\Desktop\Software\C #\16. Mayor de tres numeros\16. Mayor de tres numeros\bin\Debug\16. Mayor de tres numeros.exe
+C:\Users\upt\Desktop\Software\C #\16. Mayor de tres numeros\16. Mayor de tres numeros\bin\Debug\16. Mayor de tres numeros.pdb
+C:\Users\upt\Desktop\Software\C #\16. Mayor de tres numeros\16. Mayor de tres numeros\obj\x86\Debug\16. Mayor de tres numeros.csprojResolveAssemblyReference.cache
+C:\Users\upt\Desktop\Software\C #\16. Mayor de tres numeros\16. Mayor de tres numeros\obj\x86\Debug\16. Mayor de tres numeros.exe
+C:\Users\upt\Desktop\Software\C #\16. Mayor de tres numeros\16. Mayor de tres numeros\obj\x86\Debug\16. Mayor de tres numeros.pdb

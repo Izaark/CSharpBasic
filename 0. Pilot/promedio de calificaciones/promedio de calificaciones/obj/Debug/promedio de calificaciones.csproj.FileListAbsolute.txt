@@ -1,0 +1,12 @@
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\programas\visual basic\ejemplo 1\promedio de calificaciones\promedio de calificaciones\bin\Debug\promedio de calificaciones.exe.config
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\bin\Debug\promedio de calificaciones.exe.config
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\bin\Debug\promedio de calificaciones.exe
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\bin\Debug\promedio de calificaciones.pdb
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\obj\Debug\promedio de calificaciones.csprojResolveAssemblyReference.cache
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\obj\Debug\promedio de calificaciones.exe
+F:\drivers\ejemplo 1\promedio de calificaciones\promedio de calificaciones\obj\Debug\promedio de calificaciones.pdb

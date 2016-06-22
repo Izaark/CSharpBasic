@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\30. horas minutos\bin\Debug\_30.horas_minutos.exe
+C:\Users\User\AppData\Local\Temporary Projects\30. horas minutos\bin\Debug\_30.horas_minutos.pdb
+C:\Users\User\AppData\Local\Temporary Projects\30. horas minutos\obj\x86\Debug\_30.horas_minutos.exe
+C:\Users\User\AppData\Local\Temporary Projects\30. horas minutos\obj\x86\Debug\_30.horas_minutos.pdb

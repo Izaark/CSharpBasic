@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\11. numero absoluto\bin\Debug\_11.numero_absoluto.exe
+C:\Users\User\AppData\Local\Temporary Projects\11. numero absoluto\bin\Debug\_11.numero_absoluto.pdb
+C:\Users\User\AppData\Local\Temporary Projects\11. numero absoluto\obj\x86\Debug\_11.numero_absoluto.exe
+C:\Users\User\AppData\Local\Temporary Projects\11. numero absoluto\obj\x86\Debug\_11.numero_absoluto.pdb

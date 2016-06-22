@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\21. Dias de la semana\bin\Debug\_21.Dias_de_la_semana.exe
+C:\Users\User\AppData\Local\Temporary Projects\21. Dias de la semana\bin\Debug\_21.Dias_de_la_semana.pdb
+C:\Users\User\AppData\Local\Temporary Projects\21. Dias de la semana\obj\x86\Debug\_21.Dias_de_la_semana.exe
+C:\Users\User\AppData\Local\Temporary Projects\21. Dias de la semana\obj\x86\Debug\_21.Dias_de_la_semana.pdb
+C:\Users\upt\Desktop\Software\C #\21. Dias de la semana\21. Dias de la semana\bin\Debug\21. Dias de la semana.exe
+C:\Users\upt\Desktop\Software\C #\21. Dias de la semana\21. Dias de la semana\bin\Debug\21. Dias de la semana.pdb
+C:\Users\upt\Desktop\Software\C #\21. Dias de la semana\21. Dias de la semana\obj\x86\Debug\21. Dias de la semana.csprojResolveAssemblyReference.cache
+C:\Users\upt\Desktop\Software\C #\21. Dias de la semana\21. Dias de la semana\obj\x86\Debug\21. Dias de la semana.exe
+C:\Users\upt\Desktop\Software\C #\21. Dias de la semana\21. Dias de la semana\obj\x86\Debug\21. Dias de la semana.pdb

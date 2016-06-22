@@ -1,0 +1,15 @@
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\bin\Debug\ejemplo 1.exe.config
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\obj\Debug\ejemplo 1.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\bin\Debug\ejemplo 1.exe
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\bin\Debug\ejemplo 1.pdb
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\obj\Debug\ejemplo 1.exe
+C:\Users\ALUMNOS\AppData\Local\Temporary Projects\ejemplo 1\obj\Debug\ejemplo 1.pdb
+E:\programas\visual basic\ejemplo 1\ejemplo 1\bin\Debug\ejemplo 1.exe.config
+E:\programas\visual basic\ejemplo 1\ejemplo 1\obj\Debug\ejemplo 1.exe
+E:\programas\visual basic\ejemplo 1\ejemplo 1\obj\Debug\ejemplo 1.pdb
+F:\drivers\ejemplo 1\ejemplo 1\bin\Debug\ejemplo 1.exe.config
+F:\drivers\ejemplo 1\ejemplo 1\obj\Debug\ejemplo 1.exe
+F:\drivers\ejemplo 1\ejemplo 1\obj\Debug\ejemplo 1.pdb
+F:\drivers\ejemplo 1\ejemplo 1\bin\Debug\ejemplo 1.exe
+F:\drivers\ejemplo 1\ejemplo 1\bin\Debug\ejemplo 1.pdb
+F:\drivers\ejemplo 1\ejemplo 1\obj\Debug\ejemplo 1.csprojResolveAssemblyReference.cache

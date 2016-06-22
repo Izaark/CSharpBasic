@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\13. Numero positivo o negativo\bin\Debug\_13.Numero_positivo_o_negativo.exe
+C:\Users\User\AppData\Local\Temporary Projects\13. Numero positivo o negativo\bin\Debug\_13.Numero_positivo_o_negativo.pdb
+C:\Users\User\AppData\Local\Temporary Projects\13. Numero positivo o negativo\obj\x86\Debug\_13.Numero_positivo_o_negativo.exe
+C:\Users\User\AppData\Local\Temporary Projects\13. Numero positivo o negativo\obj\x86\Debug\_13.Numero_positivo_o_negativo.pdb

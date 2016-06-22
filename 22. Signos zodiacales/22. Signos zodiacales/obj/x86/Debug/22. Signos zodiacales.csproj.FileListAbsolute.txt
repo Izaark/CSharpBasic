@@ -1,0 +1,11 @@
+C:\Users\User\AppData\Local\Temporary Projects\22. Signos zodiacales\bin\Debug\_22.Signos_zodiacales.exe
+C:\Users\User\AppData\Local\Temporary Projects\22. Signos zodiacales\bin\Debug\_22.Signos_zodiacales.pdb
+C:\Users\User\AppData\Local\Temporary Projects\22. Signos zodiacales\obj\x86\Debug\_22.Signos_zodiacales.exe
+C:\Users\User\AppData\Local\Temporary Projects\22. Signos zodiacales\obj\x86\Debug\_22.Signos_zodiacales.pdb
+C:\Users\User\Desktop\C #\22. Signos zodiacales\22. Signos zodiacales\bin\Debug\22. Signos zodiacales.exe
+C:\Users\User\Desktop\C #\22. Signos zodiacales\22. Signos zodiacales\bin\Debug\22. Signos zodiacales.pdb
+C:\Users\User\Desktop\C #\22. Signos zodiacales\22. Signos zodiacales\obj\x86\Debug\22. Signos zodiacales.exe
+C:\Users\User\Desktop\C #\22. Signos zodiacales\22. Signos zodiacales\obj\x86\Debug\22. Signos zodiacales.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\22. Signos zodiacales\22. Signos zodiacales\obj\x86\Debug\22. Signos zodiacales.exe
+C:\Users\upt\Desktop\Lenguajes\C #\22. Signos zodiacales\22. Signos zodiacales\obj\x86\Debug\22. Signos zodiacales.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\22. Signos zodiacales\22. Signos zodiacales\obj\x86\Debug\22. Signos zodiacales.csprojResolveAssemblyReference.cache

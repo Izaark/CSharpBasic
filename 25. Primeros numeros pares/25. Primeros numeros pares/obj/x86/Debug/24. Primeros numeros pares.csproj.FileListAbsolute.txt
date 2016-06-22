@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\24. Primeros numeros pares\bin\Debug\_24.Primeros_numeros_pares.exe
+C:\Users\User\AppData\Local\Temporary Projects\24. Primeros numeros pares\bin\Debug\_24.Primeros_numeros_pares.pdb
+C:\Users\User\AppData\Local\Temporary Projects\24. Primeros numeros pares\obj\x86\Debug\_24.Primeros_numeros_pares.exe
+C:\Users\User\AppData\Local\Temporary Projects\24. Primeros numeros pares\obj\x86\Debug\_24.Primeros_numeros_pares.pdb

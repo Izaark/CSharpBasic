@@ -1,0 +1,9 @@
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\bin\Debug\15 empleados.exe.config
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\bin\Debug\15 empleados.exe
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\bin\Debug\15 empleados.pdb
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\obj\Debug\15 empleados.csprojResolveAssemblyReference.cache
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\obj\Debug\15 empleados.exe
+c:\users\upt\documents\visual studio 2013\Projects\15 empleados\15 empleados\obj\Debug\15 empleados.pdb
+C:\Users\upt\Desktop\Software\C #\15 empleados\15 empleados\bin\Debug\15 empleados.exe.config
+C:\Users\upt\Desktop\Software\C #\15 empleados\15 empleados\obj\Debug\15 empleados.exe
+C:\Users\upt\Desktop\Software\C #\15 empleados\15 empleados\obj\Debug\15 empleados.pdb

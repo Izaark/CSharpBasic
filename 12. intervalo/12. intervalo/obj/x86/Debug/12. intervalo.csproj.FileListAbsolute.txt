@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\12. intervalo\bin\Debug\_12.intervalo.exe
+C:\Users\User\AppData\Local\Temporary Projects\12. intervalo\bin\Debug\_12.intervalo.pdb
+C:\Users\User\AppData\Local\Temporary Projects\12. intervalo\obj\x86\Debug\_12.intervalo.exe
+C:\Users\User\AppData\Local\Temporary Projects\12. intervalo\obj\x86\Debug\_12.intervalo.pdb

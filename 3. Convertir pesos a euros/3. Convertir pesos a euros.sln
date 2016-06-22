@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Convertir pesos a euros", "3. Convertir pesos a euros\3. Convertir pesos a euros.csproj", "{D374D8F6-0217-433B-B014-3350859BFC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D374D8F6-0217-433B-B014-3350859BFC85}.Debug|x86.ActiveCfg = Debug|x86
+		{D374D8F6-0217-433B-B014-3350859BFC85}.Debug|x86.Build.0 = Debug|x86
+		{D374D8F6-0217-433B-B014-3350859BFC85}.Release|x86.ActiveCfg = Release|x86
+		{D374D8F6-0217-433B-B014-3350859BFC85}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\5. Importe de billetes\bin\Debug\_5.Importe_de_billetes.exe
+C:\Users\User\AppData\Local\Temporary Projects\5. Importe de billetes\bin\Debug\_5.Importe_de_billetes.pdb
+C:\Users\User\AppData\Local\Temporary Projects\5. Importe de billetes\obj\x86\Debug\_5.Importe_de_billetes.exe
+C:\Users\User\AppData\Local\Temporary Projects\5. Importe de billetes\obj\x86\Debug\_5.Importe_de_billetes.pdb
+C:\Users\User\Desktop\C #\5. Importe de billetes\5. Importe de billetes\bin\Debug\5. Importe de billetes.exe
+C:\Users\User\Desktop\C #\5. Importe de billetes\5. Importe de billetes\bin\Debug\5. Importe de billetes.pdb
+C:\Users\User\Desktop\C #\5. Importe de billetes\5. Importe de billetes\obj\x86\Debug\5. Importe de billetes.exe
+C:\Users\User\Desktop\C #\5. Importe de billetes\5. Importe de billetes\obj\x86\Debug\5. Importe de billetes.pdb
+C:\Users\upt\Desktop\Software\C #\5. Importe de billetes\5. Importe de billetes\obj\x86\Debug\5. Importe de billetes.pdb

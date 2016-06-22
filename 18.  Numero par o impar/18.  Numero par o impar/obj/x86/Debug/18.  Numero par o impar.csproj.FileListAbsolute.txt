@@ -1,0 +1,9 @@
+C:\Users\User\AppData\Local\Temporary Projects\18.  Numero par o impar\bin\Debug\_18.Numero_par_o_impar.exe
+C:\Users\User\AppData\Local\Temporary Projects\18.  Numero par o impar\bin\Debug\_18.Numero_par_o_impar.pdb
+C:\Users\User\AppData\Local\Temporary Projects\18.  Numero par o impar\obj\x86\Debug\_18.Numero_par_o_impar.exe
+C:\Users\User\AppData\Local\Temporary Projects\18.  Numero par o impar\obj\x86\Debug\_18.Numero_par_o_impar.pdb
+C:\Users\upt\Desktop\Software\C #\18.  Numero par o impar\18.  Numero par o impar\bin\Debug\18.  Numero par o impar.exe
+C:\Users\upt\Desktop\Software\C #\18.  Numero par o impar\18.  Numero par o impar\bin\Debug\18.  Numero par o impar.pdb
+C:\Users\upt\Desktop\Software\C #\18.  Numero par o impar\18.  Numero par o impar\obj\x86\Debug\18.  Numero par o impar.csprojResolveAssemblyReference.cache
+C:\Users\upt\Desktop\Software\C #\18.  Numero par o impar\18.  Numero par o impar\obj\x86\Debug\18.  Numero par o impar.exe
+C:\Users\upt\Desktop\Software\C #\18.  Numero par o impar\18.  Numero par o impar\obj\x86\Debug\18.  Numero par o impar.pdb

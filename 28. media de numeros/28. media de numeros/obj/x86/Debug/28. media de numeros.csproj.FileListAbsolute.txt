@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\28. media de numeros\bin\Debug\_28.media_de_numeros.exe
+C:\Users\User\AppData\Local\Temporary Projects\28. media de numeros\bin\Debug\_28.media_de_numeros.pdb
+C:\Users\User\AppData\Local\Temporary Projects\28. media de numeros\obj\x86\Debug\_28.media_de_numeros.exe
+C:\Users\User\AppData\Local\Temporary Projects\28. media de numeros\obj\x86\Debug\_28.media_de_numeros.pdb

@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\14. Numeros iguales\bin\Debug\_14.Numeros_iguales.exe
+C:\Users\User\AppData\Local\Temporary Projects\14. Numeros iguales\bin\Debug\_14.Numeros_iguales.pdb
+C:\Users\User\AppData\Local\Temporary Projects\14. Numeros iguales\obj\x86\Debug\_14.Numeros_iguales.exe
+C:\Users\User\AppData\Local\Temporary Projects\14. Numeros iguales\obj\x86\Debug\_14.Numeros_iguales.pdb

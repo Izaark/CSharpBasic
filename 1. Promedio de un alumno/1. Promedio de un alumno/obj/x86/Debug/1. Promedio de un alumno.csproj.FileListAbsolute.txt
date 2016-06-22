@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\1. Promedio de un alumno\bin\Debug\_1.Promedio_de_un_alumno.exe
+C:\Users\User\AppData\Local\Temporary Projects\1. Promedio de un alumno\bin\Debug\_1.Promedio_de_un_alumno.pdb
+C:\Users\User\AppData\Local\Temporary Projects\1. Promedio de un alumno\obj\x86\Debug\_1.Promedio_de_un_alumno.exe
+C:\Users\User\AppData\Local\Temporary Projects\1. Promedio de un alumno\obj\x86\Debug\_1.Promedio_de_un_alumno.pdb

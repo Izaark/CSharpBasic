@@ -1,0 +1,10 @@
+C:\Users\User\AppData\Local\Temporary Projects\17.  Numero divisible\bin\Debug\_17.Numero_divisible.exe
+C:\Users\User\AppData\Local\Temporary Projects\17.  Numero divisible\bin\Debug\_17.Numero_divisible.pdb
+C:\Users\User\AppData\Local\Temporary Projects\17.  Numero divisible\obj\x86\Debug\_17.Numero_divisible.exe
+C:\Users\User\AppData\Local\Temporary Projects\17.  Numero divisible\obj\x86\Debug\_17.Numero_divisible.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\17.  Numero divisible\17.  Numero divisible\bin\Debug\17.  Numero divisible.exe
+C:\Users\upt\Desktop\Lenguajes\C #\17.  Numero divisible\17.  Numero divisible\bin\Debug\17.  Numero divisible.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\17.  Numero divisible\17.  Numero divisible\obj\x86\Debug\17.  Numero divisible.csprojResolveAssemblyReference.cache
+C:\Users\upt\Desktop\Lenguajes\C #\17.  Numero divisible\17.  Numero divisible\obj\x86\Debug\17.  Numero divisible.exe
+C:\Users\upt\Desktop\Lenguajes\C #\17.  Numero divisible\17.  Numero divisible\obj\x86\Debug\17.  Numero divisible.pdb
+C:\Users\upt\Desktop\Software\C #\17.  Numero divisible\17.  Numero divisible\obj\x86\Debug\17.  Numero divisible.pdb

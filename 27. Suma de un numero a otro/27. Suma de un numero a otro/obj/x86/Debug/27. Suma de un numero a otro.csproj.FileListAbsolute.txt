@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\27. Suma de un numero a otro\bin\Debug\_27.Suma_de_un_numero_a_otro.exe
+C:\Users\User\AppData\Local\Temporary Projects\27. Suma de un numero a otro\bin\Debug\_27.Suma_de_un_numero_a_otro.pdb
+C:\Users\User\AppData\Local\Temporary Projects\27. Suma de un numero a otro\obj\x86\Debug\_27.Suma_de_un_numero_a_otro.exe
+C:\Users\User\AppData\Local\Temporary Projects\27. Suma de un numero a otro\obj\x86\Debug\_27.Suma_de_un_numero_a_otro.pdb

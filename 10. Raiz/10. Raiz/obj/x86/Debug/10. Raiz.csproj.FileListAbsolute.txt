@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\10. Raiz\bin\Debug\_10.Raiz.exe
+C:\Users\User\AppData\Local\Temporary Projects\10. Raiz\bin\Debug\_10.Raiz.pdb
+C:\Users\User\AppData\Local\Temporary Projects\10. Raiz\obj\x86\Debug\_10.Raiz.exe
+C:\Users\User\AppData\Local\Temporary Projects\10. Raiz\obj\x86\Debug\_10.Raiz.pdb

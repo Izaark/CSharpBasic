@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\9. Area de triangulo\bin\Debug\_9.Area_de_triangulo.exe
+C:\Users\User\AppData\Local\Temporary Projects\9. Area de triangulo\bin\Debug\_9.Area_de_triangulo.pdb
+C:\Users\User\AppData\Local\Temporary Projects\9. Area de triangulo\obj\x86\Debug\_9.Area_de_triangulo.exe
+C:\Users\User\AppData\Local\Temporary Projects\9. Area de triangulo\obj\x86\Debug\_9.Area_de_triangulo.pdb

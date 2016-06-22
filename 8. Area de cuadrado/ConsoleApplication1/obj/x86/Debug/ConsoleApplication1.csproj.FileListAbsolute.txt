@@ -1,0 +1,7 @@
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\C #\8. Area de cuadrado\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\C #\8. Area de cuadrado\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\upt\Desktop\Software\C #\8. Area de cuadrado\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

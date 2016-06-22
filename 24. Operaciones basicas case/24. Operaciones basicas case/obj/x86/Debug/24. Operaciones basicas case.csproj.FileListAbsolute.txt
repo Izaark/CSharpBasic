@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\24. Operaciones basicas case\bin\Debug\_24.Operaciones_basicas_case.exe
+C:\Users\User\AppData\Local\Temporary Projects\24. Operaciones basicas case\bin\Debug\_24.Operaciones_basicas_case.pdb
+C:\Users\User\AppData\Local\Temporary Projects\24. Operaciones basicas case\obj\x86\Debug\_24.Operaciones_basicas_case.exe
+C:\Users\User\AppData\Local\Temporary Projects\24. Operaciones basicas case\obj\x86\Debug\_24.Operaciones_basicas_case.pdb

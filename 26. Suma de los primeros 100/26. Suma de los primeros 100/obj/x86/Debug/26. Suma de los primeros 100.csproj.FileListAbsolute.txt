@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\26. Suma de los primeros 100\bin\Debug\_26.Suma_de_los_primeros_100.exe
+C:\Users\User\AppData\Local\Temporary Projects\26. Suma de los primeros 100\bin\Debug\_26.Suma_de_los_primeros_100.pdb
+C:\Users\User\AppData\Local\Temporary Projects\26. Suma de los primeros 100\obj\x86\Debug\_26.Suma_de_los_primeros_100.exe
+C:\Users\User\AppData\Local\Temporary Projects\26. Suma de los primeros 100\obj\x86\Debug\_26.Suma_de_los_primeros_100.pdb

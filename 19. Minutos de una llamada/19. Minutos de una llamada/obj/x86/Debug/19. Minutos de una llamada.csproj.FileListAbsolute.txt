@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\C #\19. Minutos de una llamada\19. Minutos de una llamada\bin\Debug\19. Minutos de una llamada.exe
+C:\Users\User\Desktop\C #\19. Minutos de una llamada\19. Minutos de una llamada\bin\Debug\19. Minutos de una llamada.pdb
+C:\Users\User\Desktop\C #\19. Minutos de una llamada\19. Minutos de una llamada\obj\x86\Debug\19. Minutos de una llamada.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C #\19. Minutos de una llamada\19. Minutos de una llamada\obj\x86\Debug\19. Minutos de una llamada.exe
+C:\Users\User\Desktop\C #\19. Minutos de una llamada\19. Minutos de una llamada\obj\x86\Debug\19. Minutos de una llamada.pdb

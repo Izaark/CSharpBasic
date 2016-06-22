@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\bin\Debug\3. Convertir pesos a euros.exe
+C:\Users\User\Desktop\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\bin\Debug\3. Convertir pesos a euros.pdb
+C:\Users\User\Desktop\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.exe
+C:\Users\User\Desktop\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.exe
+C:\Users\upt\Desktop\Lenguajes\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\bin\Debug\3. Convertir pesos a euros.exe
+C:\Users\upt\Desktop\Lenguajes\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\bin\Debug\3. Convertir pesos a euros.pdb
+C:\Users\upt\Desktop\Lenguajes\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.csprojResolveAssemblyReference.cache
+C:\Users\upt\Desktop\Software\C #\3. Convertir pesos a euros\3. Convertir pesos a euros\obj\x86\Debug\3. Convertir pesos a euros.pdb

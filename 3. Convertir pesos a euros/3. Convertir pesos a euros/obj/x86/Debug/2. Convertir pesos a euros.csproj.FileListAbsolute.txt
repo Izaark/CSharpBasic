@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\2. Convertir pesos a euros\bin\Debug\_2.Convertir_pesos_a_euros.exe
+C:\Users\User\AppData\Local\Temporary Projects\2. Convertir pesos a euros\bin\Debug\_2.Convertir_pesos_a_euros.pdb
+C:\Users\User\AppData\Local\Temporary Projects\2. Convertir pesos a euros\obj\x86\Debug\_2.Convertir_pesos_a_euros.exe
+C:\Users\User\AppData\Local\Temporary Projects\2. Convertir pesos a euros\obj\x86\Debug\_2.Convertir_pesos_a_euros.pdb

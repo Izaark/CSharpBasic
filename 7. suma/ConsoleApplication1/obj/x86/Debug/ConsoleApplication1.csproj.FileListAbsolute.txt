@@ -1,0 +1,8 @@
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\C #\7. suma\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\C #\7. suma\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\C #\7. suma\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\C #\7. suma\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

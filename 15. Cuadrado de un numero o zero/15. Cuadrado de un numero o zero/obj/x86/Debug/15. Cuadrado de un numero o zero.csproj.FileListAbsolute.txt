@@ -1,0 +1,4 @@
+C:\Users\User\AppData\Local\Temporary Projects\15. Cuadrado de un numero o zero\bin\Debug\_15.Cuadrado_de_un_numero_o_zero.exe
+C:\Users\User\AppData\Local\Temporary Projects\15. Cuadrado de un numero o zero\bin\Debug\_15.Cuadrado_de_un_numero_o_zero.pdb
+C:\Users\User\AppData\Local\Temporary Projects\15. Cuadrado de un numero o zero\obj\x86\Debug\_15.Cuadrado_de_un_numero_o_zero.exe
+C:\Users\User\AppData\Local\Temporary Projects\15. Cuadrado de un numero o zero\obj\x86\Debug\_15.Cuadrado_de_un_numero_o_zero.pdb

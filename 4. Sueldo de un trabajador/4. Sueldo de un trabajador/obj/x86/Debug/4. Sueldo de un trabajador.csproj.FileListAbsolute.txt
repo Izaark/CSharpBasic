@@ -1,0 +1,12 @@
+C:\Users\User\AppData\Local\Temporary Projects\4. Sueldo de un trabajador\bin\Debug\_4.Sueldo_de_un_trabajador.exe
+C:\Users\User\AppData\Local\Temporary Projects\4. Sueldo de un trabajador\bin\Debug\_4.Sueldo_de_un_trabajador.pdb
+C:\Users\User\AppData\Local\Temporary Projects\4. Sueldo de un trabajador\obj\x86\Debug\_4.Sueldo_de_un_trabajador.exe
+C:\Users\User\AppData\Local\Temporary Projects\4. Sueldo de un trabajador\obj\x86\Debug\_4.Sueldo_de_un_trabajador.pdb
+C:\Users\User\Desktop\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\bin\Debug\4. Sueldo de un trabajador.exe
+C:\Users\User\Desktop\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\bin\Debug\4. Sueldo de un trabajador.pdb
+C:\Users\User\Desktop\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\obj\x86\Debug\4. Sueldo de un trabajador.exe
+C:\Users\User\Desktop\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\obj\x86\Debug\4. Sueldo de un trabajador.pdb
+C:\Users\User\Desktop\Lenguajes\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\obj\x86\Debug\4. Sueldo de un trabajador.exe
+C:\Users\User\Desktop\Lenguajes\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\bin\Debug\4. Sueldo de un trabajador.exe
+C:\Users\User\Desktop\Lenguajes\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\bin\Debug\4. Sueldo de un trabajador.pdb
+C:\Users\User\Desktop\Lenguajes\C #\4. Sueldo de un trabajador\4. Sueldo de un trabajador\obj\x86\Debug\4. Sueldo de un trabajador.pdb
